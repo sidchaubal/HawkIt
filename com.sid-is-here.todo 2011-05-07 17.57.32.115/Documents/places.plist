@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alarm</key>
+	<date>2011-05-07T21:20:42Z</date>
+	<key>justlaunched</key>
+	<string>0</string>
+	<key>location</key>
+	<string>38.8963,-77.0503</string>
+	<key>locations</key>
+	<dict>
+		<key>new</key>
+		<array/>
+	</dict>
+	<key>locationstr</key>
+	<string>522 23rd St NW Washington D.C.</string>
+	<key>place</key>
+	<array>
+		<dict>
+			<key>GsearchResultClass</key>
+			<string>GlocalSearch</string>
+			<key>accuracy</key>
+			<string>8</string>
+			<key>addressLines</key>
+			<array>
+				<string>528 23rd Street Northwest</string>
+				<string>Washington D.C., DC</string>
+			</array>
+			<key>city</key>
+			<string>Washington D.C.</string>
+			<key>content</key>
+			<string></string>
+			<key>country</key>
+			<string>United States</string>
+			<key>ddUrl</key>
+			<string>http://www.google.com/maps?source=uds&amp;daddr=528+23rd+Street+Northwest,+Washington+D.C.,+DC+(Magic+Gourd+Restaurant)+@38.89671,-77.050129&amp;saddr=38.8963,-77.0503</string>
+			<key>ddUrlFromHere</key>
+			<string>http://www.google.com/maps?source=uds&amp;saddr=528+23rd+Street+Northwest,+Washington+D.C.,+DC+(Magic+Gourd+Restaurant)+@38.89671,-77.050129&amp;iwstate1=dir:from</string>
+			<key>ddUrlToHere</key>
+			<string>http://www.google.com/maps?source=uds&amp;daddr=528+23rd+Street+Northwest,+Washington+D.C.,+DC+(Magic+Gourd+Restaurant)+@38.89671,-77.050129&amp;iwstate1=dir:to</string>
+			<key>lat</key>
+			<string>38.89671</string>
+			<key>listingType</key>
+			<string>local</string>
+			<key>lng</key>
+			<string>-77.050129</string>
+			<key>maxAge</key>
+			<real>604800</real>
+			<key>phoneNumbers</key>
+			<array>
+				<dict>
+					<key>number</key>
+					<string>(202) 466-3995</string>
+					<key>type</key>
+					<string></string>
+				</dict>
+			</array>
+			<key>region</key>
+			<string>DC</string>
+			<key>staticMapUrl</key>
+			<string>http://maps.google.com/maps/api/staticmap?maptype=roadmap&amp;format=gif&amp;sensor=false&amp;size=150x100&amp;zoom=13&amp;markers=38.89671,-77.050129</string>
+			<key>streetAddress</key>
+			<string>528 23rd Street Northwest</string>
+			<key>title</key>
+			<string>&lt;b&gt;Magic Gourd&lt;/b&gt; Restaurant</string>
+			<key>titleNoFormatting</key>
+			<string>Magic Gourd Restaurant</string>
+			<key>url</key>
+			<string>http://www.google.com/maps/place?source=uds&amp;q=magicGourd&amp;cid=12306917131226324674</string>
+			<key>viewportmode</key>
+			<string>computed</string>
+		</dict>
+	</array>
+	<key>query</key>
+	<string></string>
+	<key>radius</key>
+	<string>310</string>
+	<key>selection</key>
+	<string>0</string>
+	<key>todo</key>
+	<string></string>
+	<key>type</key>
+	<string>Foot</string>
+</dict>
+</plist>

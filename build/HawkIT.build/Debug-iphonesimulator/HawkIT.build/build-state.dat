@@ -1,0 +1,1437 @@
+THawkIT
+v7
+r0
+t342412469.444085
+cCheck dependencies
+cProcessInfoPlistFile /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/Info.plist HawkIT-Info.plist
+cCompileXIB /Users/Sid/Documents/Memo/MainWindow.xib
+cCompileXIB /Users/Sid/Documents/Memo/MemoViewController.xib
+cCompileXIB /Users/Sid/Documents/Memo/Classes/final.xib
+cCpResource build/Debug-iphonesimulator/HawkIT.app/location.jpg location.jpg
+cCpResource build/Debug-iphonesimulator/HawkIT.app/Resized-CPXSG.jpg Resized-CPXSG.jpg
+cCompileXIB "/Users/Sid/Documents/Memo/Classes/Home Page.xib"
+cCompileXIB /Users/Sid/Documents/Memo/Classes/loge.xib
+cCompileXIB /Users/Sid/Documents/Memo/Classes/disclosureview.xib
+cCpResource build/Debug-iphonesimulator/HawkIT.app/kill.png kill.png
+cCpResource build/Debug-iphonesimulator/HawkIT.app/notepad.png notepad.png
+cCpResource build/Debug-iphonesimulator/HawkIT.app/pencil.png pencil.png
+cCpResource build/Debug-iphonesimulator/HawkIT.app/sub.caf sub.caf
+cCpResource build/Debug-iphonesimulator/HawkIT.app/start.jpeg start.jpeg
+cCpResource build/Debug-iphonesimulator/HawkIT.app/beep.caf beep.caf
+cCpResource build/Debug-iphonesimulator/HawkIT.app/checked.jpeg checked.jpeg
+cCpResource build/Debug-iphonesimulator/HawkIT.app/unchecked.jpeg unchecked.jpeg
+cCpResource build/Debug-iphonesimulator/HawkIT.app/black_cross.gif black_cross.gif
+cCpResource build/Debug-iphonesimulator/HawkIT.app/mapper.jpeg mapper.jpeg
+cCpResource build/Debug-iphonesimulator/HawkIT.app/53-house.png 53-house.png
+cCpResource build/Debug-iphonesimulator/HawkIT.app/note.png note.png
+cCpResource build/Debug-iphonesimulator/HawkIT.app/iTunesArtwork iTunesArtwork
+cCpResource build/Debug-iphonesimulator/HawkIT.app/Icon@2x.png Icon@2x.png
+cCpResource build/Debug-iphonesimulator/HawkIT.app/Icon.png Icon.png
+cCpResource build/Debug-iphonesimulator/HawkIT.app/Icon-Small@2x.png Icon-Small@2x.png
+cCpResource build/Debug-iphonesimulator/HawkIT.app/Icon-Small.png Icon-Small.png
+cCpResource build/Debug-iphonesimulator/HawkIT.app/Icon-Small-50.png Icon-Small-50.png
+cCpResource build/Debug-iphonesimulator/HawkIT.app/Icon-72.png Icon-72.png
+cCpResource build/Debug-iphonesimulator/HawkIT.app/hawkit@2x.png hawkit@2x.png
+cCpResource build/Debug-iphonesimulator/HawkIT.app/hawkit.png hawkit.png
+cCpResource build/Debug-iphonesimulator/HawkIT.app/view.png view.png
+cCpResource build/Debug-iphonesimulator/HawkIT.app/arrowh.png arrowh.png
+cCpResource build/Debug-iphonesimulator/HawkIT.app/icon_left_arrow.png icon_left_arrow.png
+cCpResource build/Debug-iphonesimulator/HawkIT.app/icon_right_arrow.png icon_right_arrow.png
+cCpResource build/Debug-iphonesimulator/HawkIT.app/PullDownArrow.gif PullDownArrow.gif
+cCpResource build/Debug-iphonesimulator/HawkIT.app/PullRightArrow.gif PullRightArrow.gif
+cCpResource build/Debug-iphonesimulator/HawkIT.app/location.png location.png
+cCpResource build/Debug-iphonesimulator/HawkIT.app/location-arrow.png location-arrow.png
+cCpResource build/Debug-iphonesimulator/HawkIT.app/lightbulb.png lightbulb.png
+cCpResource build/Debug-iphonesimulator/HawkIT.app/map.png map.png
+cCompileXIB /Users/Sid/Documents/Memo/tutorial.xib
+cCpResource build/Debug-iphonesimulator/HawkIT.app/map-marker.png map-marker.png
+cCpResource build/Debug-iphonesimulator/HawkIT.app/stopwatch.png stopwatch.png
+cProcessPCH /var/folders/fv/h2zyfh7n3t35d13_2b65ldhm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HawkIT_Prefix-ahuufsjcbtnzaqctwytqylikldlp/HawkIT_Prefix.pch.gch HawkIT_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/main.o /Users/Sid/Documents/Memo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/MemoAppDelegate.o /Users/Sid/Documents/Memo/Classes/MemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/MemoViewController.o /Users/Sid/Documents/Memo/Classes/MemoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/NSObject+SBJSON.o /Users/Sid/Documents/Memo/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/NSString+SBJSON.o /Users/Sid/Documents/Memo/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/SBJSON.o /Users/Sid/Documents/Memo/Classes/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/SBJsonBase.o /Users/Sid/Documents/Memo/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/SBJsonParser.o /Users/Sid/Documents/Memo/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/SBJsonWriter.o /Users/Sid/Documents/Memo/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/final.o /Users/Sid/Documents/Memo/Classes/final.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/Home Page.o" "/Users/Sid/Documents/Memo/Classes/Home Page.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/loge.o /Users/Sid/Documents/Memo/Classes/loge.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/disclosureview.o /Users/Sid/Documents/Memo/Classes/disclosureview.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/HawkIT normal i386
+cGenerateDSYMFile /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app.dSYM /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/HawkIT
+cTouch /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC127E80000000000074190
+t1287727080
+s475536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocationManagerDelegate.h
+c000000004CC127DD0000000000000C73
+t1287727069
+s3187
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC127DD00000000000001D0
+t1287727069
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h
+c000000004CC1294D000000000000027E
+t1287727437
+s638
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/Sid/Documents/Memo/53-house.png
+c000000004CB898C40000000000000B52
+t1287166148
+s2898
+
+N/Users/Sid/Documents/Memo/Classes/Home Page.h
+c000000004D85271D0000000000000650
+t1300571933
+s1616
+i<UIKit/UIKit.h>
+i"MemoAppDelegate.h"
+i<Mapkit/MKAnnotation.h>
+i<MapKit/MapKit.h>
+
+N/Users/Sid/Documents/Memo/Classes/Home Page.m
+c000000004D8FAAA900000000000062BB
+t1301260969
+s25275
+i"Home Page.h"
+i<QuartzCore/QuartzCore.h>
+i"disclosureview.h"
+
+N/Users/Sid/Documents/Memo/Classes/Home Page.xib
+c000000004D8F85A4000000000000B4E7
+t1301251492
+s46311
+
+N/Users/Sid/Documents/Memo/Classes/JSON/JSON.h
+c000000004C73CD0E00000000000008F9
+t1282657550
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/Sid/Documents/Memo/Classes/JSON/NSObject+SBJSON.h
+c000000004C73CD0E0000000000000A01
+t1282657550
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/Sid/Documents/Memo/Classes/JSON/NSObject+SBJSON.m
+c000000004C73CD0E00000000000008B9
+t1282657550
+s2233
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/Sid/Documents/Memo/Classes/JSON/NSString+SBJSON.h
+c000000004C73CD0E0000000000000916
+t1282657550
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/Sid/Documents/Memo/Classes/JSON/NSString+SBJSON.m
+c000000004C73CD0E000000000000089F
+t1282657550
+s2207
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/Sid/Documents/Memo/Classes/JSON/SBJSON.h
+c000000004C73CD0E0000000000000AED
+t1282657550
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/Sid/Documents/Memo/Classes/JSON/SBJSON.m
+c000000004C73CD0E0000000000001ABC
+t1282657550
+s6844
+i"SBJSON.h"
+
+N/Users/Sid/Documents/Memo/Classes/JSON/SBJsonBase.h
+c000000004C73CD0E0000000000000B82
+t1282657550
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/Sid/Documents/Memo/Classes/JSON/SBJsonBase.m
+c000000004C73CD0E0000000000000AC1
+t1282657550
+s2753
+i"SBJsonBase.h"
+
+N/Users/Sid/Documents/Memo/Classes/JSON/SBJsonParser.h
+c000000004C73CD0E0000000000000C0B
+t1282657550
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/Sid/Documents/Memo/Classes/JSON/SBJsonParser.m
+c000000004C73CD0E00000000000036CF
+t1282657550
+s14031
+i"SBJsonParser.h"
+
+N/Users/Sid/Documents/Memo/Classes/JSON/SBJsonWriter.h
+c000000004C73CD100000000000001140
+t1282657552
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/Sid/Documents/Memo/Classes/JSON/SBJsonWriter.m
+c000000004C73CD100000000000001E83
+t1282657552
+s7811
+i"SBJsonWriter.h"
+
+N/Users/Sid/Documents/Memo/Classes/MemoAppDelegate.h
+c000000004D8625D10000000000000398
+t1300637137
+s920
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/Sid/Documents/Memo/Classes/MemoAppDelegate.m
+c000000004EB893CA0000000000009106
+t1320719306
+s37126
+i"MemoAppDelegate.h"
+i"MemoViewController.h"
+i"Home Page.h"
+i"final.h"
+i"loge.h"
+i"CoreLocation/CLLocationManagerDelegate.h"
+i"QuartzCore/QuartzCore.h"
+
+N/Users/Sid/Documents/Memo/Classes/MemoViewController.h
+c000000004DA766B50000000000000533
+t1302816437
+s1331
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MapKit.h>
+i<QuartzCore/QuartzCore.h>
+i"JSON/JSON.h"
+
+N/Users/Sid/Documents/Memo/Classes/MemoViewController.m
+c000000004DC5BEE30000000000006A0C
+t1304805091
+s27148
+i"MemoViewController.h"
+i"MemoAppDelegate.h"
+
+N/Users/Sid/Documents/Memo/Classes/disclosureview.h
+c000000004D5D5BB80000000000000207
+t1297963960
+s519
+i<UIKit/UIKit.h>
+
+N/Users/Sid/Documents/Memo/Classes/disclosureview.m
+c000000004D5D5EEB0000000000000A96
+t1297964779
+s2710
+i"disclosureview.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/Sid/Documents/Memo/Classes/disclosureview.xib
+c000000004D851E200000000000006AF1
+t1300569632
+s27377
+
+N/Users/Sid/Documents/Memo/Classes/final.h
+c000000004DA7737000000000000005AB
+t1302819696
+s1451
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MapKit.h>
+i"MemoAppDelegate.h"
+
+N/Users/Sid/Documents/Memo/Classes/final.m
+c000000004DA774EE0000000000002E52
+t1302820078
+s11858
+i"final.h"
+i<MapKit/MKAnnotation.h>
+
+N/Users/Sid/Documents/Memo/Classes/final.xib
+c000000004DA773D1000000000000D30E
+t1302819793
+s54030
+
+N/Users/Sid/Documents/Memo/Classes/loge.h
+c000000004D5A081C0000000000000150
+t1297745948
+s336
+i<UIKit/UIKit.h>
+
+N/Users/Sid/Documents/Memo/Classes/loge.m
+c000000004D5A0960000000000000083F
+t1297746272
+s2111
+i"loge.h"
+
+N/Users/Sid/Documents/Memo/Classes/loge.xib
+c000000004D5A082D000000000000619D
+t1297745965
+s24989
+
+N/Users/Sid/Documents/Memo/HawkIT_Prefix.pch
+c000000004D2FF3A000000000000000B1
+t1294988192
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Sid/Documents/Memo/Icon-72.png
+c000000004D8FB6070000000000004BD9
+t1301263879
+s19417
+
+N/Users/Sid/Documents/Memo/Icon-Small-50.png
+c000000004D8FB6070000000000004BD9
+t1301263879
+s19417
+
+N/Users/Sid/Documents/Memo/Icon-Small.png
+c000000004D8FB607000000000000210F
+t1301263879
+s8463
+
+N/Users/Sid/Documents/Memo/Icon-Small@2x.png
+c000000004D8FB6070000000000003AA5
+t1301263879
+s15013
+
+N/Users/Sid/Documents/Memo/Icon.png
+c000000004D8FB6070000000000003994
+t1301263879
+s14740
+
+N/Users/Sid/Documents/Memo/Icon@2x.png
+c000000004D8FB60700000000000092B8
+t1301263879
+s37560
+
+N/Users/Sid/Documents/Memo/MainWindow.xib
+c000000004D8530990000000000009C4F
+t1300574361
+s40015
+
+N/Users/Sid/Documents/Memo/MemoViewController.xib
+c000000004DA77195000000000000B708
+t1302819221
+s46856
+
+N/Users/Sid/Documents/Memo/PullDownArrow.gif
+c000000004D8F8F81000000000000058B
+t1301254017
+s1419
+
+N/Users/Sid/Documents/Memo/PullRightArrow.gif
+c000000004D8F93DF000000000000058B
+t1301255135
+s1419
+
+N/Users/Sid/Documents/Memo/Resized-CPXSG.jpg
+c000000004D33818D000000000000030D
+t1295221133
+s781
+
+N/Users/Sid/Documents/Memo/arrowh.png
+c000000004D86817400000000000012BB
+t1300660596
+s4795
+
+N/Users/Sid/Documents/Memo/beep.caf
+c000000004D619A100000000000003BF6
+t1298242064
+s15350
+
+N/Users/Sid/Documents/Memo/black_cross.gif
+c000000004C7424620000000000000175
+t1282679906
+s373
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app
+t1320719327
+s1598
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app.dSYM
+t1320719327
+s102
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/53-house.png
+t1317054778
+s2898
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/HawkIT
+t1320719327
+s195876
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/Home Page.nib
+t1317054778
+s3878
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/Icon-72.png
+t1317054778
+s19417
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/Icon-Small-50.png
+t1317054778
+s19417
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/Icon-Small.png
+t1317054778
+s8463
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/Icon-Small@2x.png
+t1317054778
+s15013
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/Icon.png
+t1317054778
+s14740
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/Icon@2x.png
+t1317054778
+s37560
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/Info.plist
+t1317054777
+s670
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/MainWindow.nib
+t1317054778
+s1968
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/MemoViewController.nib
+t1317054778
+s4032
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/PkgInfo
+t1317054777
+s8
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/PullDownArrow.gif
+t1317054778
+s1419
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/PullRightArrow.gif
+t1317054778
+s1419
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/Resized-CPXSG.jpg
+t1317054777
+s781
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/arrowh.png
+t1317054778
+s4795
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/beep.caf
+t1317054778
+s15350
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/black_cross.gif
+t1317054778
+s373
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/checked.jpeg
+t1317054778
+s8564
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/disclosureview.nib
+t1317054779
+s1892
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/final.nib
+t1317054778
+s4701
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/hawkit.png
+t1317054778
+s117477
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/hawkit@2x.png
+t1317054778
+s389346
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/iTunesArtwork
+t1317054778
+s492186
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/icon_left_arrow.png
+t1317054778
+s1813
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/icon_right_arrow.png
+t1317054778
+s1845
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/kill.png
+t1317054778
+s964
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/lightbulb.png
+t1317054778
+s3023
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/location-arrow.png
+t1317054778
+s273
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/location.jpg
+t1317054777
+s1410
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/location.png
+t1317054778
+s3114
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/loge.nib
+t1317054779
+s2142
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/map-marker.png
+t1317054778
+s3131
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/map.png
+t1317054778
+s3229
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/mapper.jpeg
+t1317054778
+s669
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/note.png
+t1317054778
+s245462
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/notepad.png
+t1317054778
+s176
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/pencil.png
+t1317054778
+s290
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/start.jpeg
+t1317054778
+s491
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/stopwatch.png
+t1317054778
+s3156
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/sub.caf
+t1317054778
+s63902
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/tutorial.nib
+t1317054779
+s3839
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/unchecked.jpeg
+t1317054778
+s8385
+
+N/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/view.png
+t1317054778
+s15615
+
+N/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/HawkIT.LinkFileList
+c000000004E80A93900000000000005C6
+t1317054777
+s1478
+
+N/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/Home Page.o
+t1317054780
+s135300
+
+N/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/MemoAppDelegate.o
+t1320719327
+s121072
+
+N/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/MemoViewController.o
+t1317054780
+s140192
+
+N/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/NSObject+SBJSON.o
+t1317054779
+s8500
+
+N/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/NSString+SBJSON.o
+t1317054779
+s8420
+
+N/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/SBJSON.o
+t1317054780
+s20060
+
+N/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/SBJsonBase.o
+t1317054780
+s13192
+
+N/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/SBJsonParser.o
+t1317054780
+s35852
+
+N/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/SBJsonWriter.o
+t1317054780
+s24840
+
+N/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/disclosureview.o
+t1317054780
+s48920
+
+N/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/final.o
+t1317054780
+s99356
+
+N/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/loge.o
+t1317054780
+s43600
+
+N/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/main.o
+t1317054779
+s6276
+
+N/Users/Sid/Documents/Memo/checked.jpeg
+c000000004D67FE890000000000002174
+t1298661001
+s8564
+
+N/Users/Sid/Documents/Memo/hawkit.png
+c000000004D8FB602000000000001CAE5
+t1301263874
+s117477
+
+N/Users/Sid/Documents/Memo/hawkit@2x.png
+c000000004D8FB602000000000005F0E2
+t1301263874
+s389346
+
+N/Users/Sid/Documents/Memo/iTunesArtwork
+c000000004D8FB607000000000007829A
+t1301263879
+s492186
+
+N/Users/Sid/Documents/Memo/icon_left_arrow.png
+c000000004C4CB6B00000000000000715
+t1280095920
+s1813
+
+N/Users/Sid/Documents/Memo/icon_right_arrow.png
+c000000004C4CB6330000000000000735
+t1280095795
+s1845
+
+N/Users/Sid/Documents/Memo/kill.png
+c000000004D5D75BD00000000000003C4
+t1297970621
+s964
+
+N/Users/Sid/Documents/Memo/lightbulb.png
+c000000004CB898CE0000000000000BCF
+t1287166158
+s3023
+
+N/Users/Sid/Documents/Memo/location-arrow.png
+c000000004CBBDE340000000000000111
+t1287380532
+s273
+
+N/Users/Sid/Documents/Memo/location.jpg
+c000000004D337C120000000000000582
+t1295219730
+s1410
+
+N/Users/Sid/Documents/Memo/location.png
+c000000004CB898CA0000000000000C2A
+t1287166154
+s3114
+
+N/Users/Sid/Documents/Memo/main.m
+c000000004D2FF3A0000000000000016B
+t1294988192
+s363
+i<UIKit/UIKit.h>
+
+N/Users/Sid/Documents/Memo/map-marker.png
+c000000004CB898AA0000000000000C3B
+t1287166122
+s3131
+
+N/Users/Sid/Documents/Memo/map.png
+c000000004CB898AE0000000000000C9D
+t1287166126
+s3229
+
+N/Users/Sid/Documents/Memo/mapper.jpeg
+c000000004D6899EE000000000000029D
+t1298700782
+s669
+
+N/Users/Sid/Documents/Memo/note.png
+c000000004D7BC55E000000000003BED6
+t1299957086
+s245462
+
+N/Users/Sid/Documents/Memo/notepad.png
+c000000004CBBDE7200000000000000B0
+t1287380594
+s176
+
+N/Users/Sid/Documents/Memo/pencil.png
+c000000004CBBDE500000000000000122
+t1287380560
+s290
+
+N/Users/Sid/Documents/Memo/start.jpeg
+c000000004D69442400000000000001EB
+t1298744356
+s491
+
+N/Users/Sid/Documents/Memo/stopwatch.png
+c000000004CB898CC0000000000000C54
+t1287166156
+s3156
+
+N/Users/Sid/Documents/Memo/sub.caf
+c000000004D5DD711000000000000F99E
+t1297995537
+s63902
+
+N/Users/Sid/Documents/Memo/tutorial.xib
+c000000004DA7592C0000000000009AED
+t1302812972
+s39661
+
+N/Users/Sid/Documents/Memo/unchecked.jpeg
+c000000004D67FEE200000000000020C1
+t1298661090
+s8385
+
+N/Users/Sid/Documents/Memo/view.png
+c000000004D8525190000000000003CFF
+t1300571417
+s15615
+
+N/var/folders/fv/h2zyfh7n3t35d13_2b65ldhm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HawkIT_Prefix-ahuufsjcbtnzaqctwytqylikldlp/HawkIT_Prefix.pch.gch
+t1317054779
+s15453392
+
+NHawkIT-Info.plist
+c000000004D59FD540000000000000411
+t1297743188
+s1041
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies342412469#342412469#0(0"0(0#1#0"4520699200#0"0#
+
+CCompileC "build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/Home Page.o" "/Users/Sid/Documents/Memo/Classes/Home Page.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s338747580.168141
+e338747580.407429
+r1
+xCompileC
+xbuild/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/Home Page.o
+x/Users/Sid/Documents/Memo/Classes/Home Page.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Sid/Documents/Memo/Classes/Home Page.m: In function '-[Home_Page tableView:cellForRowAtIndexPath:]':
+o/Users/Sid/Documents/Memo/Classes/Home Page.m:424: warning: 'setFont:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+lSLF07#2@53"Compile /Users/Sid/Documents/Memo/Classes/Home Page.m338747580#338747580#0(363"/Users/Sid/Documents/Memo/Classes/Home Page.m: In function '-[Home_Page tableView:cellForRowAtIndexPath:]':/Users/Sid/Documents/Memo/Classes/Home Page.m:424: warning: 'setFont:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)1(22@194"'setFont:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)338747580#108#255#0(6@45"/Users/Sid/Documents/Memo/Classes/Home Page.m322953769#424#0#424#0#33"'*' is deprecated (declared at *)0(0#0#45"/Users/Sid/Documents/Memo/Classes/Home Page.m4547538576#1769"    cd /Users/Sid/Documents/Memo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-generated-files.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-own-target-headers.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-all-target-headers.hmap -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-project-headers.hmap -F/Users/Sid/Documents/Memo/build/Debug-iphonesimulator -I/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/include -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources/i386 -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources -include /var/folders/fv/h2zyfh7n3t35d13_2b65ldhm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HawkIT_Prefix-ahuufsjcbtnzaqctwytqylikldlp/HawkIT_Prefix.pch -c "/Users/Sid/Documents/Memo/Classes/Home Page.m" -o "/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/Home Page.o"0#
+
+CCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/MemoAppDelegate.o /Users/Sid/Documents/Memo/Classes/MemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342412126.923635
+e342412127.175020
+r1
+xCompileC
+xbuild/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/MemoAppDelegate.o
+x/Users/Sid/Documents/Memo/Classes/MemoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Sid/Documents/Memo/Classes/MemoAppDelegate.m: In function '-[MemoAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/Sid/Documents/Memo/Classes/MemoAppDelegate.m:69: warning: incompatible Objective-C types 'struct NSDate *', expected 'struct NSNumber *' when passing argument 1 of 'compare:' from distinct Objective-C type
+o/Users/Sid/Documents/Memo/Classes/MemoAppDelegate.m: In function '-[MemoAppDelegate applicationWillEnterForeground:]':
+o/Users/Sid/Documents/Memo/Classes/MemoAppDelegate.m:439: warning: incompatible Objective-C types 'struct NSDate *', expected 'struct NSNumber *' when passing argument 1 of 'compare:' from distinct Objective-C type
+lSLF07#2@59"Compile /Users/Sid/Documents/Memo/Classes/MemoAppDelegate.m342412126#342412127#0(676"/Users/Sid/Documents/Memo/Classes/MemoAppDelegate.m: In function '-[MemoAppDelegate application:didFinishLaunchingWithOptions:]':/Users/Sid/Documents/Memo/Classes/MemoAppDelegate.m:69: warning: incompatible Objective-C types 'struct NSDate *', expected 'struct NSNumber *' when passing argument 1 of 'compare:' from distinct Objective-C type/Users/Sid/Documents/Memo/Classes/MemoAppDelegate.m: In function '-[MemoAppDelegate applicationWillEnterForeground:]':/Users/Sid/Documents/Memo/Classes/MemoAppDelegate.m:439: warning: incompatible Objective-C types 'struct NSDate *', expected 'struct NSNumber *' when passing argument 1 of 'compare:' from distinct Objective-C type2(22@147"Incompatible Objective-C types 'struct NSDate *', expected 'struct NSNumber *' when passing argument 1 of 'compare:' from distinct Objective-C type342412127#130#213#0(6@51"/Users/Sid/Documents/Memo/Classes/MemoAppDelegate.m342412106#69#0#69#0#0"0(22@147"Incompatible Objective-C types 'struct NSDate *', expected 'struct NSNumber *' when passing argument 1 of 'compare:' from distinct Objective-C type342412127#462#214#0(6@51"/Users/Sid/Documents/Memo/Classes/MemoAppDelegate.m342412106#439#0#439#0#0"0(0#0#51"/Users/Sid/Documents/Memo/Classes/MemoAppDelegate.m17216368640#1777"    cd /Users/Sid/Documents/Memo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-generated-files.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-own-target-headers.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-all-target-headers.hmap -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-project-headers.hmap -F/Users/Sid/Documents/Memo/build/Debug-iphonesimulator -I/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/include -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources/i386 -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources -include /var/folders/fv/h2zyfh7n3t35d13_2b65ldhm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HawkIT_Prefix-ahuufsjcbtnzaqctwytqylikldlp/HawkIT_Prefix.pch -c /Users/Sid/Documents/Memo/Classes/MemoAppDelegate.m -o /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/MemoAppDelegate.o0#
+
+CCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/MemoViewController.o /Users/Sid/Documents/Memo/Classes/MemoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338747579.853675
+e338747580.210113
+r1
+xCompileC
+xbuild/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/MemoViewController.o
+x/Users/Sid/Documents/Memo/Classes/MemoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Sid/Documents/Memo/Classes/MemoViewController.m: In function '-[MemoViewController ChangeLocationN:]':
+o/Users/Sid/Documents/Memo/Classes/MemoViewController.m:377: warning: 'MemoViewController' may not respond to '-ChangeLocation'
+o/Users/Sid/Documents/Memo/Classes/MemoViewController.m:377: warning: (Messages without a matching method signature
+o/Users/Sid/Documents/Memo/Classes/MemoViewController.m:377: warning: will be assumed to return 'id' and accept
+o/Users/Sid/Documents/Memo/Classes/MemoViewController.m:377: warning: '...' as arguments.)
+o/Users/Sid/Documents/Memo/Classes/MemoViewController.m:381: warning: 'MemoViewController' may not respond to '-ChangeLocation'
+o/Users/Sid/Documents/Memo/Classes/MemoViewController.m: In function '-[MemoViewController alertView:willDismissWithButtonIndex:]':
+o/Users/Sid/Documents/Memo/Classes/MemoViewController.m:489: warning: 'UIAlertView' may not respond to '-addTextFieldWithValue:label:'
+o/Users/Sid/Documents/Memo/Classes/MemoViewController.m:490: warning: 'UIAlertView' may not respond to '-textFieldAtIndex:'
+o/Users/Sid/Documents/Memo/Classes/MemoViewController.m: In function '-[MemoViewController connection:didReceiveResponse:]':
+o/Users/Sid/Documents/Memo/Classes/MemoViewController.m:714: warning: 'NSData' may not respond to '-setLength:'
+o/Users/Sid/Documents/Memo/Classes/MemoViewController.m: In function '-[MemoViewController connection:didReceiveData:]':
+o/Users/Sid/Documents/Memo/Classes/MemoViewController.m:718: warning: 'NSData' may not respond to '-appendData:'
+lSLF07#2@62"Compile /Users/Sid/Documents/Memo/Classes/MemoViewController.m338747579#338747580#0(1535"/Users/Sid/Documents/Memo/Classes/MemoViewController.m: In function '-[MemoViewController ChangeLocationN:]':/Users/Sid/Documents/Memo/Classes/MemoViewController.m:377: warning: 'MemoViewController' may not respond to '-ChangeLocation'/Users/Sid/Documents/Memo/Classes/MemoViewController.m:377: warning: (Messages without a matching method signature/Users/Sid/Documents/Memo/Classes/MemoViewController.m:377: warning: will be assumed to return 'id' and accept/Users/Sid/Documents/Memo/Classes/MemoViewController.m:377: warning: '...' as arguments.)/Users/Sid/Documents/Memo/Classes/MemoViewController.m:381: warning: 'MemoViewController' may not respond to '-ChangeLocation'/Users/Sid/Documents/Memo/Classes/MemoViewController.m: In function '-[MemoViewController alertView:willDismissWithButtonIndex:]':/Users/Sid/Documents/Memo/Classes/MemoViewController.m:489: warning: 'UIAlertView' may not respond to '-addTextFieldWithValue:label:'/Users/Sid/Documents/Memo/Classes/MemoViewController.m:490: warning: 'UIAlertView' may not respond to '-textFieldAtIndex:'/Users/Sid/Documents/Memo/Classes/MemoViewController.m: In function '-[MemoViewController connection:didReceiveResponse:]':/Users/Sid/Documents/Memo/Classes/MemoViewController.m:714: warning: 'NSData' may not respond to '-setLength:'/Users/Sid/Documents/Memo/Classes/MemoViewController.m: In function '-[MemoViewController connection:didReceiveData:]':/Users/Sid/Documents/Memo/Classes/MemoViewController.m:718: warning: 'NSData' may not respond to '-appendData:'7(22@57"'MemoViewController' may not respond to '-ChangeLocation'338747580#110#127#0(6@54"/Users/Sid/Documents/Memo/Classes/MemoViewController.m326497891#377#0#377#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)338747580#237#115#0(6@54"/Users/Sid/Documents/Memo/Classes/MemoViewController.m326497891#377#0#377#0#0"0(22@57"'MemoViewController' may not respond to '-ChangeLocation'338747580#553#127#0(6@54"/Users/Sid/Documents/Memo/Classes/MemoViewController.m326497891#381#0#381#0#26"'*' may not respond to '*'0(22@64"'UIAlertView' may not respond to '-addTextFieldWithValue:label:'338747580#811#134#0(6@54"/Users/Sid/Documents/Memo/Classes/MemoViewController.m326497891#489#0#489#0#26"'*' may not respond to '*'0(22@53"'UIAlertView' may not respond to '-textFieldAtIndex:'338747580#945#123#0(6@54"/Users/Sid/Documents/Memo/Classes/MemoViewController.m326497891#490#0#490#0#26"'*' may not respond to '*'0(22@41"'NSData' may not respond to '-setLength:'338747580#1192#111#0(6@54"/Users/Sid/Documents/Memo/Classes/MemoViewController.m326497891#714#0#714#0#26"'*' may not respond to '*'0(22@42"'NSData' may not respond to '-appendData:'338747580#1423#112#0(6@54"/Users/Sid/Documents/Memo/Classes/MemoViewController.m326497891#718#0#718#0#26"'*' may not respond to '*'0(0#0#54"/Users/Sid/Documents/Memo/Classes/MemoViewController.m4547538576#1783"    cd /Users/Sid/Documents/Memo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-generated-files.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-own-target-headers.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-all-target-headers.hmap -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-project-headers.hmap -F/Users/Sid/Documents/Memo/build/Debug-iphonesimulator -I/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/include -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources/i386 -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources -include /var/folders/fv/h2zyfh7n3t35d13_2b65ldhm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HawkIT_Prefix-ahuufsjcbtnzaqctwytqylikldlp/HawkIT_Prefix.pch -c /Users/Sid/Documents/Memo/Classes/MemoViewController.m -o /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/MemoViewController.o0#
+
+CCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/NSObject+SBJSON.o /Users/Sid/Documents/Memo/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338747579.855046
+e338747579.921216
+r1
+xCompileC
+xbuild/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/Sid/Documents/Memo/Classes/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/Sid/Documents/Memo/Classes/JSON/NSObject+SBJSON.m338747579#338747579#0(0"0(0#0#56"/Users/Sid/Documents/Memo/Classes/JSON/NSObject+SBJSON.m4547538576#1782"    cd /Users/Sid/Documents/Memo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-generated-files.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-own-target-headers.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-all-target-headers.hmap -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-project-headers.hmap -F/Users/Sid/Documents/Memo/build/Debug-iphonesimulator -I/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/include -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources/i386 -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources -include /var/folders/fv/h2zyfh7n3t35d13_2b65ldhm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HawkIT_Prefix-ahuufsjcbtnzaqctwytqylikldlp/HawkIT_Prefix.pch -c /Users/Sid/Documents/Memo/Classes/JSON/NSObject+SBJSON.m -o /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/NSString+SBJSON.o /Users/Sid/Documents/Memo/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338747579.907615
+e338747579.963671
+r1
+xCompileC
+xbuild/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/Sid/Documents/Memo/Classes/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/Sid/Documents/Memo/Classes/JSON/NSString+SBJSON.m338747579#338747579#0(0"0(0#0#56"/Users/Sid/Documents/Memo/Classes/JSON/NSString+SBJSON.m4547538576#1782"    cd /Users/Sid/Documents/Memo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-generated-files.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-own-target-headers.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-all-target-headers.hmap -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-project-headers.hmap -F/Users/Sid/Documents/Memo/build/Debug-iphonesimulator -I/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/include -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources/i386 -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources -include /var/folders/fv/h2zyfh7n3t35d13_2b65ldhm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HawkIT_Prefix-ahuufsjcbtnzaqctwytqylikldlp/HawkIT_Prefix.pch -c /Users/Sid/Documents/Memo/Classes/JSON/NSString+SBJSON.m -o /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/SBJSON.o /Users/Sid/Documents/Memo/Classes/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338747579.921346
+e338747580.016205
+r1
+xCompileC
+xbuild/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/SBJSON.o
+x/Users/Sid/Documents/Memo/Classes/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/Sid/Documents/Memo/Classes/JSON/SBJSON.m338747579#338747580#0(0"0(0#0#47"/Users/Sid/Documents/Memo/Classes/JSON/SBJSON.m4547538576#1764"    cd /Users/Sid/Documents/Memo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-generated-files.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-own-target-headers.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-all-target-headers.hmap -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-project-headers.hmap -F/Users/Sid/Documents/Memo/build/Debug-iphonesimulator -I/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/include -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources/i386 -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources -include /var/folders/fv/h2zyfh7n3t35d13_2b65ldhm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HawkIT_Prefix-ahuufsjcbtnzaqctwytqylikldlp/HawkIT_Prefix.pch -c /Users/Sid/Documents/Memo/Classes/JSON/SBJSON.m -o /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/SBJSON.o0#
+
+CCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/SBJsonBase.o /Users/Sid/Documents/Memo/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338747579.963800
+e338747580.036722
+r1
+xCompileC
+xbuild/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/SBJsonBase.o
+x/Users/Sid/Documents/Memo/Classes/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/Sid/Documents/Memo/Classes/JSON/SBJsonBase.m338747579#338747580#0(0"0(0#0#51"/Users/Sid/Documents/Memo/Classes/JSON/SBJsonBase.m4547538576#1772"    cd /Users/Sid/Documents/Memo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-generated-files.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-own-target-headers.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-all-target-headers.hmap -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-project-headers.hmap -F/Users/Sid/Documents/Memo/build/Debug-iphonesimulator -I/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/include -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources/i386 -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources -include /var/folders/fv/h2zyfh7n3t35d13_2b65ldhm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HawkIT_Prefix-ahuufsjcbtnzaqctwytqylikldlp/HawkIT_Prefix.pch -c /Users/Sid/Documents/Memo/Classes/JSON/SBJsonBase.m -o /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/SBJsonParser.o /Users/Sid/Documents/Memo/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338747580.016339
+e338747580.180880
+r1
+xCompileC
+xbuild/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/SBJsonParser.o
+x/Users/Sid/Documents/Memo/Classes/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Sid/Documents/Memo/Classes/JSON/SBJsonParser.m338747580#338747580#0(0"0(0#0#53"/Users/Sid/Documents/Memo/Classes/JSON/SBJsonParser.m4547538576#1776"    cd /Users/Sid/Documents/Memo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-generated-files.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-own-target-headers.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-all-target-headers.hmap -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-project-headers.hmap -F/Users/Sid/Documents/Memo/build/Debug-iphonesimulator -I/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/include -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources/i386 -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources -include /var/folders/fv/h2zyfh7n3t35d13_2b65ldhm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HawkIT_Prefix-ahuufsjcbtnzaqctwytqylikldlp/HawkIT_Prefix.pch -c /Users/Sid/Documents/Memo/Classes/JSON/SBJsonParser.m -o /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/SBJsonWriter.o /Users/Sid/Documents/Memo/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338747580.036853
+e338747580.142070
+r1
+xCompileC
+xbuild/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/Sid/Documents/Memo/Classes/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Sid/Documents/Memo/Classes/JSON/SBJsonWriter.m338747580#338747580#0(0"0(0#0#53"/Users/Sid/Documents/Memo/Classes/JSON/SBJsonWriter.m4547538576#1776"    cd /Users/Sid/Documents/Memo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-generated-files.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-own-target-headers.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-all-target-headers.hmap -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-project-headers.hmap -F/Users/Sid/Documents/Memo/build/Debug-iphonesimulator -I/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/include -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources/i386 -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources -include /var/folders/fv/h2zyfh7n3t35d13_2b65ldhm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HawkIT_Prefix-ahuufsjcbtnzaqctwytqylikldlp/HawkIT_Prefix.pch -c /Users/Sid/Documents/Memo/Classes/JSON/SBJsonWriter.m -o /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/disclosureview.o /Users/Sid/Documents/Memo/Classes/disclosureview.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338747580.210253
+e338747580.296501
+r1
+xCompileC
+xbuild/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/disclosureview.o
+x/Users/Sid/Documents/Memo/Classes/disclosureview.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/Sid/Documents/Memo/Classes/disclosureview.m338747580#338747580#0(0"0(0#0#50"/Users/Sid/Documents/Memo/Classes/disclosureview.m4547538576#1775"    cd /Users/Sid/Documents/Memo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-generated-files.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-own-target-headers.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-all-target-headers.hmap -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-project-headers.hmap -F/Users/Sid/Documents/Memo/build/Debug-iphonesimulator -I/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/include -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources/i386 -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources -include /var/folders/fv/h2zyfh7n3t35d13_2b65ldhm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HawkIT_Prefix-ahuufsjcbtnzaqctwytqylikldlp/HawkIT_Prefix.pch -c /Users/Sid/Documents/Memo/Classes/disclosureview.m -o /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/disclosureview.o0#
+
+CCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/final.o /Users/Sid/Documents/Memo/Classes/final.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338747580.142323
+e338747580.339795
+r1
+xCompileC
+xbuild/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/final.o
+x/Users/Sid/Documents/Memo/Classes/final.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/Sid/Documents/Memo/Classes/final.m338747580#338747580#0(0"0(0#0#41"/Users/Sid/Documents/Memo/Classes/final.m4547538576#1757"    cd /Users/Sid/Documents/Memo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-generated-files.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-own-target-headers.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-all-target-headers.hmap -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-project-headers.hmap -F/Users/Sid/Documents/Memo/build/Debug-iphonesimulator -I/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/include -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources/i386 -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources -include /var/folders/fv/h2zyfh7n3t35d13_2b65ldhm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HawkIT_Prefix-ahuufsjcbtnzaqctwytqylikldlp/HawkIT_Prefix.pch -c /Users/Sid/Documents/Memo/Classes/final.m -o /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/final.o0#
+
+CCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/loge.o /Users/Sid/Documents/Memo/Classes/loge.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338747580.180999
+e338747580.261491
+r1
+xCompileC
+xbuild/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/loge.o
+x/Users/Sid/Documents/Memo/Classes/loge.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Sid/Documents/Memo/Classes/loge.m: In function '-[loge clearlog]':
+o/Users/Sid/Documents/Memo/Classes/loge.m:49: warning: 'writeToFile:atomically:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:378)
+lSLF07#2@48"Compile /Users/Sid/Documents/Memo/Classes/loge.m338747580#338747580#0(336"/Users/Sid/Documents/Memo/Classes/loge.m: In function '-[loge clearlog]':/Users/Sid/Documents/Memo/Classes/loge.m:49: warning: 'writeToFile:atomically:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:378)1(22@207"'writeToFile:atomically:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:378)338747580#74#262#0(6@40"/Users/Sid/Documents/Memo/Classes/loge.m319439072#49#0#49#0#33"'*' is deprecated (declared at *)0(0#0#40"/Users/Sid/Documents/Memo/Classes/loge.m4547538576#1755"    cd /Users/Sid/Documents/Memo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-generated-files.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-own-target-headers.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-all-target-headers.hmap -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-project-headers.hmap -F/Users/Sid/Documents/Memo/build/Debug-iphonesimulator -I/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/include -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources/i386 -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources -include /var/folders/fv/h2zyfh7n3t35d13_2b65ldhm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HawkIT_Prefix-ahuufsjcbtnzaqctwytqylikldlp/HawkIT_Prefix.pch -c /Users/Sid/Documents/Memo/Classes/loge.m -o /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/loge.o0#
+
+CCompileC build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/main.o /Users/Sid/Documents/Memo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338747579.851856
+e338747579.907473
+r1
+xCompileC
+xbuild/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/main.o
+x/Users/Sid/Documents/Memo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Compile /Users/Sid/Documents/Memo/main.m338747579#338747579#0(0"0(0#0#32"/Users/Sid/Documents/Memo/main.m4547538576#1747"    cd /Users/Sid/Documents/Memo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-generated-files.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-own-target-headers.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-all-target-headers.hmap -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-project-headers.hmap -F/Users/Sid/Documents/Memo/build/Debug-iphonesimulator -I/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/include -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources/i386 -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources -include /var/folders/fv/h2zyfh7n3t35d13_2b65ldhm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HawkIT_Prefix-ahuufsjcbtnzaqctwytqylikldlp/HawkIT_Prefix.pch -c /Users/Sid/Documents/Memo/main.m -o /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/Sid/Documents/Memo/Classes/Home Page.xib"
+s338747577.904988
+e338747578.671844
+r1
+xCompileXIB
+x/Users/Sid/Documents/Memo/Classes/Home Page.xib
+o2011-09-26 11:32:58.143 ibtool[531:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+o2011-09-26 11:32:58.151 ibtool[531:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+o2011-09-26 11:32:58.157 ibtool[531:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+o2011-09-26 11:32:58.431 Interface Builder Cocoa Touch Tool[535:f203] CFPreferences: user home directory at file://localhost/Users/Sid/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@34"CompileXIB "Classes/Home Page.xib"338747577#338747578#0(785"2011-09-26 11:32:58.143 ibtool[531:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  2011-09-26 11:32:58.151 ibtool[531:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  2011-09-26 11:32:58.157 ibtool[531:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  2011-09-26 11:32:58.431 Interface Builder Cocoa Touch Tool[535:f203] CFPreferences: user home directory at file://localhost/Users/Sid/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#47"/Users/Sid/Documents/Memo/Classes/Home Page.xib4547538576#540"    cd /Users/Sid/Documents/Memo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/Home Page.nib" "/Users/Sid/Documents/Memo/Classes/Home Page.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Sid/Documents/Memo/Classes/disclosureview.xib
+s338747578.614834
+e338747579.241297
+r1
+xCompileXIB
+x/Users/Sid/Documents/Memo/Classes/disclosureview.xib
+lSLF07#2@37"CompileXIB Classes/disclosureview.xib338747578#338747579#0(0"0(0#0#52"/Users/Sid/Documents/Memo/Classes/disclosureview.xib4547538576#546"    cd /Users/Sid/Documents/Memo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/disclosureview.nib /Users/Sid/Documents/Memo/Classes/disclosureview.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Sid/Documents/Memo/Classes/final.xib
+s338747577.902181
+e338747578.857936
+r1
+xCompileXIB
+x/Users/Sid/Documents/Memo/Classes/final.xib
+o2011-09-26 11:32:58.430 Interface Builder Cocoa Touch Tool[534:f003] CFPreferences: user home directory at file://localhost/Users/Sid/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+oexecute() Error: database is locked
+oexecute() Error: database is locked
+oexecute() Error: no such table: main.images
+o/SourceCache/GoogleMobileMaps_Sim/GoogleMobileMaps-263.5/googlenav/mac/TileStore.mm:75  SQL error: (1) no such table: images
+o/SourceCache/GoogleMobileMaps_Sim/GoogleMobileMaps-263.5/googlenav/mac/TileStore.mm:81  SQL error: (1) no such table: version
+o/SourceCache/GoogleMobileMaps_Sim/GoogleMobileMaps-263.5/googlenav/mac/TileStore.mm:87  SQL error: (1) no such table: images
+o/SourceCache/GoogleMobileMaps_Sim/GoogleMobileMaps-263.5/googlenav/mac/TileStore.mm:93  SQL error: (1) no such table: images
+o/SourceCache/GoogleMobileMaps_Sim/GoogleMobileMaps-263.5/googlenav/mac/TileStore.mm:99  SQL error: (1) no such table: version
+o/SourceCache/GoogleMobileMaps_Sim/GoogleMobileMaps-263.5/googlenav/mac/TileStore.mm:105  SQL error: (1) no such table: version
+o/SourceCache/GoogleMobileMaps_Sim/GoogleMobileMaps-263.5/googlenav/mac/TileStore.mm:111  SQL error: (1) no such table: images
+o/SourceCache/GoogleMobileMaps_Sim/GoogleMobileMaps-263.5/googlenav/mac/TileStore.mm:117  SQL error: (1) no such table: version
+o/SourceCache/GoogleMobileMaps_Sim/GoogleMobileMaps-263.5/googlenav/mac/TileStore.mm:344  SQL error: (21) no such table: version
+o/SourceCache/GoogleMobileMaps_Sim/GoogleMobileMaps-263.5/googlenav/mac/TileStore.mm:353  SQL error: (21) no such table: version
+o/* com.apple.ibtool.document.warnings */
+o/Users/Sid/Documents/Memo/Classes/final.xib:54: warning: UITextView does not support data detectors when the text view is editable.
+lSLF07#2@28"CompileXIB Classes/final.xib338747577#338747578#0(1788"2011-09-26 11:32:58.430 Interface Builder Cocoa Touch Tool[534:f003] CFPreferences: user home directory at file://localhost/Users/Sid/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.execute() Error: database is lockedexecute() Error: database is lockedexecute() Error: no such table: main.images/SourceCache/GoogleMobileMaps_Sim/GoogleMobileMaps-263.5/googlenav/mac/TileStore.mm:75  SQL error: (1) no such table: images/SourceCache/GoogleMobileMaps_Sim/GoogleMobileMaps-263.5/googlenav/mac/TileStore.mm:81  SQL error: (1) no such table: version/SourceCache/GoogleMobileMaps_Sim/GoogleMobileMaps-263.5/googlenav/mac/TileStore.mm:87  SQL error: (1) no such table: images/SourceCache/GoogleMobileMaps_Sim/GoogleMobileMaps-263.5/googlenav/mac/TileStore.mm:93  SQL error: (1) no such table: images/SourceCache/GoogleMobileMaps_Sim/GoogleMobileMaps-263.5/googlenav/mac/TileStore.mm:99  SQL error: (1) no such table: version/SourceCache/GoogleMobileMaps_Sim/GoogleMobileMaps-263.5/googlenav/mac/TileStore.mm:105  SQL error: (1) no such table: version/SourceCache/GoogleMobileMaps_Sim/GoogleMobileMaps-263.5/googlenav/mac/TileStore.mm:111  SQL error: (1) no such table: images/SourceCache/GoogleMobileMaps_Sim/GoogleMobileMaps-263.5/googlenav/mac/TileStore.mm:117  SQL error: (1) no such table: version/SourceCache/GoogleMobileMaps_Sim/GoogleMobileMaps-263.5/googlenav/mac/TileStore.mm:344  SQL error: (21) no such table: version/SourceCache/GoogleMobileMaps_Sim/GoogleMobileMaps-263.5/googlenav/mac/TileStore.mm:353  SQL error: (21) no such table: version/* com.apple.ibtool.document.warnings *//Users/Sid/Documents/Memo/Classes/final.xib:54: warning: UITextView does not support data detectors when the text view is editable.1(22@74"UITextView does not support data detectors when the text view is editable.338747578#18446744073709551615#0#0(6@43"/Users/Sid/Documents/Memo/Classes/final.xib324512593#54#0#54#0#0"0(0#0#43"/Users/Sid/Documents/Memo/Classes/final.xib4547538576#528"    cd /Users/Sid/Documents/Memo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/final.nib /Users/Sid/Documents/Memo/Classes/final.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Sid/Documents/Memo/Classes/loge.xib
+s338747578.472803
+e338747579.068839
+r1
+xCompileXIB
+x/Users/Sid/Documents/Memo/Classes/loge.xib
+lSLF07#2@27"CompileXIB Classes/loge.xib338747578#338747579#0(0"0(0#0#42"/Users/Sid/Documents/Memo/Classes/loge.xib4547538576#526"    cd /Users/Sid/Documents/Memo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/loge.nib /Users/Sid/Documents/Memo/Classes/loge.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Sid/Documents/Memo/MainWindow.xib
+s338747577.900484
+e338747578.472694
+r1
+xCompileXIB
+x/Users/Sid/Documents/Memo/MainWindow.xib
+o2011-09-26 11:32:58.147 ibtool[526:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+o2011-09-26 11:32:58.154 ibtool[526:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+o2011-09-26 11:32:58.379 Interface Builder Cocoa Touch Tool[532:f203] CFPreferences: user home directory at file://localhost/Users/Sid/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib338747577#338747578#0(602"2011-09-26 11:32:58.147 ibtool[526:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  2011-09-26 11:32:58.154 ibtool[526:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  2011-09-26 11:32:58.379 Interface Builder Cocoa Touch Tool[532:f203] CFPreferences: user home directory at file://localhost/Users/Sid/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#40"/Users/Sid/Documents/Memo/MainWindow.xib4547538576#530"    cd /Users/Sid/Documents/Memo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/MainWindow.nib /Users/Sid/Documents/Memo/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Sid/Documents/Memo/MemoViewController.xib
+s338747577.901264
+e338747578.614720
+r1
+xCompileXIB
+x/Users/Sid/Documents/Memo/MemoViewController.xib
+o2011-09-26 11:32:58.134 ibtool[527:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+o2011-09-26 11:32:58.137 ibtool[527:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+o2011-09-26 11:32:58.140 ibtool[527:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+o2011-09-26 11:32:58.402 Interface Builder Cocoa Touch Tool[533:f203] CFPreferences: user home directory at file://localhost/Users/Sid/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@33"CompileXIB MemoViewController.xib338747577#338747578#0(785"2011-09-26 11:32:58.134 ibtool[527:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  2011-09-26 11:32:58.137 ibtool[527:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  2011-09-26 11:32:58.140 ibtool[527:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  2011-09-26 11:32:58.402 Interface Builder Cocoa Touch Tool[533:f203] CFPreferences: user home directory at file://localhost/Users/Sid/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#48"/Users/Sid/Documents/Memo/MemoViewController.xib4547538576#546"    cd /Users/Sid/Documents/Memo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/MemoViewController.nib /Users/Sid/Documents/Memo/MemoViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Sid/Documents/Memo/tutorial.xib
+s338747578.774869
+e338747579.408383
+r1
+xCompileXIB
+x/Users/Sid/Documents/Memo/tutorial.xib
+o2011-09-26 11:32:58.952 ibtool[570:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+o2011-09-26 11:32:58.954 ibtool[570:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+o2011-09-26 11:32:58.955 ibtool[570:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+lSLF07#2@23"CompileXIB tutorial.xib338747578#338747579#0(549"2011-09-26 11:32:58.952 ibtool[570:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  2011-09-26 11:32:58.954 ibtool[570:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  2011-09-26 11:32:58.955 ibtool[570:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  0(0#0#38"/Users/Sid/Documents/Memo/tutorial.xib4547538576#526"    cd /Users/Sid/Documents/Memo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/tutorial.nib /Users/Sid/Documents/Memo/tutorial.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/53-house.png 53-house.png
+s338747578.693167
+e338747578.712392
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/53-house.png
+x53-house.png
+lSLF07#2@17"Copy 53-house.png338747578#338747578#0(0"0(0#0#38"/Users/Sid/Documents/Memo/53-house.png4547538576#430"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/53-house.png /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/Icon-72.png Icon-72.png
+s338747578.742766
+e338747578.759567
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/Icon-72.png
+xIcon-72.png
+lSLF07#2@16"Copy Icon-72.png338747578#338747578#0(0"0(0#0#37"/Users/Sid/Documents/Memo/Icon-72.png4547538576#429"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/Icon-72.png /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/Icon-Small-50.png Icon-Small-50.png
+s338747578.726752
+e338747578.745453
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/Icon-Small-50.png
+xIcon-Small-50.png
+lSLF07#2@22"Copy Icon-Small-50.png338747578#338747578#0(0"0(0#0#43"/Users/Sid/Documents/Memo/Icon-Small-50.png4547538576#435"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/Icon-Small-50.png /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/Icon-Small.png Icon-Small.png
+s338747578.725994
+e338747578.745318
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/Icon-Small.png
+xIcon-Small.png
+lSLF07#2@19"Copy Icon-Small.png338747578#338747578#0(0"0(0#0#40"/Users/Sid/Documents/Memo/Icon-Small.png4547538576#432"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/Icon-Small.png /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/Icon-Small@2x.png Icon-Small@2x.png
+s338747578.725207
+e338747578.742653
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/Icon-Small@2x.png
+xIcon-Small@2x.png
+lSLF07#2@22"Copy Icon-Small@2x.png338747578#338747578#0(0"0(0#0#43"/Users/Sid/Documents/Memo/Icon-Small@2x.png4547538576#435"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/Icon-Small@2x.png /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/Icon.png Icon.png
+s338747578.724423
+e338747578.741986
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png338747578#338747578#0(0"0(0#0#34"/Users/Sid/Documents/Memo/Icon.png4547538576#426"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/Icon.png /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/Icon@2x.png Icon@2x.png
+s338747578.723685
+e338747578.741752
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/Icon@2x.png
+xIcon@2x.png
+lSLF07#2@16"Copy Icon@2x.png338747578#338747578#0(0"0(0#0#37"/Users/Sid/Documents/Memo/Icon@2x.png4547538576#429"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/Icon@2x.png /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/PullDownArrow.gif PullDownArrow.gif
+s338747578.765217
+e338747578.782941
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/PullDownArrow.gif
+xPullDownArrow.gif
+lSLF07#2@22"Copy PullDownArrow.gif338747578#338747578#0(0"0(0#0#43"/Users/Sid/Documents/Memo/PullDownArrow.gif4547538576#435"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/PullDownArrow.gif /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/PullRightArrow.gif PullRightArrow.gif
+s338747578.766104
+e338747578.783115
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/PullRightArrow.gif
+xPullRightArrow.gif
+lSLF07#2@23"Copy PullRightArrow.gif338747578#338747578#0(0"0(0#0#44"/Users/Sid/Documents/Memo/PullRightArrow.gif4547538576#436"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/PullRightArrow.gif /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/Resized-CPXSG.jpg Resized-CPXSG.jpg
+s338747577.904157
+e338747577.945932
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/Resized-CPXSG.jpg
+xResized-CPXSG.jpg
+lSLF07#2@22"Copy Resized-CPXSG.jpg338747577#338747577#0(0"0(0#0#43"/Users/Sid/Documents/Memo/Resized-CPXSG.jpg4547538576#435"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/Resized-CPXSG.jpg /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/arrowh.png arrowh.png
+s338747578.746203
+e338747578.768009
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/arrowh.png
+xarrowh.png
+lSLF07#2@15"Copy arrowh.png338747578#338747578#0(0"0(0#0#36"/Users/Sid/Documents/Memo/arrowh.png4547538576#428"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/arrowh.png /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/beep.caf beep.caf
+s338747578.675918
+e338747578.712551
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/beep.caf
+xbeep.caf
+lSLF07#2@13"Copy beep.caf338747578#338747578#0(0"0(0#0#34"/Users/Sid/Documents/Memo/beep.caf4547538576#426"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/beep.caf /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/black_cross.gif black_cross.gif
+s338747578.691150
+e338747578.711863
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/black_cross.gif
+xblack_cross.gif
+lSLF07#2@20"Copy black_cross.gif338747578#338747578#0(0"0(0#0#41"/Users/Sid/Documents/Memo/black_cross.gif4547538576#433"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/black_cross.gif /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/checked.jpeg checked.jpeg
+s338747578.676669
+e338747578.712705
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/checked.jpeg
+xchecked.jpeg
+lSLF07#2@17"Copy checked.jpeg338747578#338747578#0(0"0(0#0#38"/Users/Sid/Documents/Memo/checked.jpeg4547538576#430"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/checked.jpeg /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/hawkit.png hawkit.png
+s338747578.744317
+e338747578.764975
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/hawkit.png
+xhawkit.png
+lSLF07#2@15"Copy hawkit.png338747578#338747578#0(0"0(0#0#36"/Users/Sid/Documents/Memo/hawkit.png4547538576#428"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/hawkit.png /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/hawkit@2x.png hawkit@2x.png
+s338747578.743615
+e338747578.772734
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/hawkit@2x.png
+xhawkit@2x.png
+lSLF07#2@18"Copy hawkit@2x.png338747578#338747578#0(0"0(0#0#39"/Users/Sid/Documents/Memo/hawkit@2x.png4547538576#431"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/hawkit@2x.png /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/iTunesArtwork iTunesArtwork
+s338747578.720240
+e338747578.774766
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/iTunesArtwork
+xiTunesArtwork
+lSLF07#2@18"Copy iTunesArtwork338747578#338747578#0(0"0(0#0#39"/Users/Sid/Documents/Memo/iTunesArtwork4547538576#431"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/iTunesArtwork /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/icon_left_arrow.png icon_left_arrow.png
+s338747578.746971
+e338747578.765119
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/icon_left_arrow.png
+xicon_left_arrow.png
+lSLF07#2@24"Copy icon_left_arrow.png338747578#338747578#0(0"0(0#0#45"/Users/Sid/Documents/Memo/icon_left_arrow.png4547538576#437"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/icon_left_arrow.png /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/icon_right_arrow.png icon_right_arrow.png
+s338747578.759689
+e338747578.772466
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/icon_right_arrow.png
+xicon_right_arrow.png
+lSLF07#2@25"Copy icon_right_arrow.png338747578#338747578#0(0"0(0#0#46"/Users/Sid/Documents/Memo/icon_right_arrow.png4547538576#438"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/icon_right_arrow.png /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/kill.png kill.png
+s338747578.671960
+e338747578.690025
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/kill.png
+xkill.png
+lSLF07#2@13"Copy kill.png338747578#338747578#0(0"0(0#0#34"/Users/Sid/Documents/Memo/kill.png4547538576#426"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/kill.png /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/lightbulb.png lightbulb.png
+s338747578.772840
+e338747578.796084
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/lightbulb.png
+xlightbulb.png
+lSLF07#2@18"Copy lightbulb.png338747578#338747578#0(0"0(0#0#39"/Users/Sid/Documents/Memo/lightbulb.png4547538576#431"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/lightbulb.png /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/location-arrow.png location-arrow.png
+s338747578.768113
+e338747578.783272
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/location-arrow.png
+xlocation-arrow.png
+lSLF07#2@23"Copy location-arrow.png338747578#338747578#0(0"0(0#0#44"/Users/Sid/Documents/Memo/location-arrow.png4547538576#436"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/location-arrow.png /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/location.jpg location.jpg
+s338747577.903186
+e338747577.925800
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/location.jpg
+xlocation.jpg
+lSLF07#2@17"Copy location.jpg338747577#338747577#0(0"0(0#0#38"/Users/Sid/Documents/Memo/location.jpg4547538576#430"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/location.jpg /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/location.png location.png
+s338747578.766932
+e338747578.783426
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/location.png
+xlocation.png
+lSLF07#2@17"Copy location.png338747578#338747578#0(0"0(0#0#38"/Users/Sid/Documents/Memo/location.png4547538576#430"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/location.png /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/map-marker.png map-marker.png
+s338747578.858058
+e338747578.876491
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/map-marker.png
+xmap-marker.png
+lSLF07#2@19"Copy map-marker.png338747578#338747578#0(0"0(0#0#40"/Users/Sid/Documents/Memo/map-marker.png4547538576#432"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/map-marker.png /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/map.png map.png
+s338747578.773805
+e338747578.796281
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/map.png
+xmap.png
+lSLF07#2@12"Copy map.png338747578#338747578#0(0"0(0#0#33"/Users/Sid/Documents/Memo/map.png4547538576#425"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/map.png /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/mapper.jpeg mapper.jpeg
+s338747578.692382
+e338747578.712062
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/mapper.jpeg
+xmapper.jpeg
+lSLF07#2@16"Copy mapper.jpeg338747578#338747578#0(0"0(0#0#37"/Users/Sid/Documents/Memo/mapper.jpeg4547538576#429"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/mapper.jpeg /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/note.png note.png
+s338747578.712948
+e338747578.745175
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/note.png
+xnote.png
+lSLF07#2@13"Copy note.png338747578#338747578#0(0"0(0#0#34"/Users/Sid/Documents/Memo/note.png4547538576#426"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/note.png /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/notepad.png notepad.png
+s338747578.672814
+e338747578.690195
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/notepad.png
+xnotepad.png
+lSLF07#2@16"Copy notepad.png338747578#338747578#0(0"0(0#0#37"/Users/Sid/Documents/Memo/notepad.png4547538576#429"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/notepad.png /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/pencil.png pencil.png
+s338747578.673606
+e338747578.692107
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/pencil.png
+xpencil.png
+lSLF07#2@15"Copy pencil.png338747578#338747578#0(0"0(0#0#36"/Users/Sid/Documents/Memo/pencil.png4547538576#428"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/pencil.png /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/start.jpeg start.jpeg
+s338747578.675170
+e338747578.692279
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/start.jpeg
+xstart.jpeg
+lSLF07#2@15"Copy start.jpeg338747578#338747578#0(0"0(0#0#36"/Users/Sid/Documents/Memo/start.jpeg4547538576#428"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/start.jpeg /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/stopwatch.png stopwatch.png
+s338747578.859152
+e338747578.879896
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/stopwatch.png
+xstopwatch.png
+lSLF07#2@18"Copy stopwatch.png338747578#338747578#0(0"0(0#0#39"/Users/Sid/Documents/Memo/stopwatch.png4547538576#431"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/stopwatch.png /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/sub.caf sub.caf
+s338747578.674375
+e338747578.712231
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/sub.caf
+xsub.caf
+lSLF07#2@12"Copy sub.caf338747578#338747578#0(0"0(0#0#33"/Users/Sid/Documents/Memo/sub.caf4547538576#425"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/sub.caf /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/unchecked.jpeg unchecked.jpeg
+s338747578.690301
+e338747578.711520
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/unchecked.jpeg
+xunchecked.jpeg
+lSLF07#2@19"Copy unchecked.jpeg338747578#338747578#0(0"0(0#0#40"/Users/Sid/Documents/Memo/unchecked.jpeg4547538576#432"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/unchecked.jpeg /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CCpResource build/Debug-iphonesimulator/HawkIT.app/view.png view.png
+s338747578.745532
+e338747578.764782
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HawkIT.app/view.png
+xview.png
+lSLF07#2@13"Copy view.png338747578#338747578#0(0"0(0#0#34"/Users/Sid/Documents/Memo/view.png4547538576#426"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Sid/Documents/Memo/view.png /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+
+CGenerateDSYMFile /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app.dSYM /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/HawkIT
+s342412127.284347
+e342412127.352600
+r1
+xGenerateDSYMFile
+x/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app.dSYM
+x/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/HawkIT
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/HawkIT.app.dSYM build/Debug-iphonesimulator/HawkIT.app/HawkIT342412127#342412127#0(0"0(0#0#71"/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/HawkIT4519440016#341"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/HawkIT -o /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app.dSYM0#
+
+CLd /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/HawkIT normal i386
+s342412127.175122
+e342412127.284255
+r1
+xLd
+x/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/HawkIT
+xnormal
+xi386
+lSLF07#2@76"Link /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/HawkIT342412127#342412127#0(0"0(0#0#0"17216904960#894"    cd /Users/Sid/Documents/Memo    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/Sid/Documents/Memo/build/Debug-iphonesimulator -F/Users/Sid/Documents/Memo/build/Debug-iphonesimulator -filelist /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/Objects-normal/i386/HawkIT.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -framework QuartzCore -o /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/HawkIT0#
+
+CProcessInfoPlistFile /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/Info.plist HawkIT-Info.plist
+s338747577.897248
+e338747577.900381
+r1
+xProcessInfoPlistFile
+x/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/Info.plist
+xHawkIT-Info.plist
+lSLF07#2@25"Process HawkIT-Info.plist338747577#338747577#0(0"0(0#0#43"/Users/Sid/Documents/Memo/HawkIT-Info.plist4547538688#437"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HawkIT-Info.plist -genpkginfo /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app/Info.plist0#
+
+CProcessPCH /var/folders/fv/h2zyfh7n3t35d13_2b65ldhm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HawkIT_Prefix-ahuufsjcbtnzaqctwytqylikldlp/HawkIT_Prefix.pch.gch HawkIT_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s338747579.408551
+e338747579.851766
+r1
+xProcessPCH
+x/var/folders/fv/h2zyfh7n3t35d13_2b65ldhm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HawkIT_Prefix-ahuufsjcbtnzaqctwytqylikldlp/HawkIT_Prefix.pch.gch
+xHawkIT_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile HawkIT_Prefix.pch338747579#338747579#0(0"0(0#0#43"/Users/Sid/Documents/Memo/HawkIT_Prefix.pch4547538576#1653"    cd /Users/Sid/Documents/Memo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-generated-files.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-own-target-headers.hmap -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-all-target-headers.hmap -iquote /Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/HawkIT-project-headers.hmap -F/Users/Sid/Documents/Memo/build/Debug-iphonesimulator -I/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/include -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources/i386 -I/Users/Sid/Documents/Memo/build/HawkIT.build/Debug-iphonesimulator/HawkIT.build/DerivedSources -c /Users/Sid/Documents/Memo/HawkIT_Prefix.pch -o /var/folders/fv/h2zyfh7n3t35d13_2b65ldhm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HawkIT_Prefix-ahuufsjcbtnzaqctwytqylikldlp/HawkIT_Prefix.pch.gch0#
+
+CTouch /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app
+s342412127.352754
+e342412127.357809
+r1
+xTouch
+x/Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app
+lSLF07#2@70"Touch /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app342412127#342412127#0(0"0(0#0#0"4519440016#251"    cd /Users/Sid/Documents/Memo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Sid/Documents/Memo/build/Debug-iphonesimulator/HawkIT.app0#
+

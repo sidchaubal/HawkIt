@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Enter Your ToDo here</key>
+	<array>
+		<string>http://www.google.com/maps/place?source=uds&amp;q=magicGourd&amp;cid=12306917131226324674</string>
+		<string>Magic Gourd Restaurant</string>
+		<string>528 23rd Street Northwest</string>
+		<date>2011-05-07T21:52:13Z</date>
+		<string>38.89671</string>
+		<string>-77.050129</string>
+		<string>Foot</string>
+		<string>tp</string>
+		<string>310</string>
+	</array>
+</dict>
+</plist>
